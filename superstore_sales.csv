@@ -1,0 +1,6 @@
+order_date,customer_name,product_name,category,region,sales,quantity,discount,profit,order_id
+2022-01-31,Alice,Chair,Furniture,East,250,2,0.1,50,A001
+2022-02-28,Bob,Table,Furniture,West,600,3,0.0,150,A002
+2022-03-31,Charlie,Phone,Technology,East,1200,5,0.2,300,A003
+2022-04-30,Dana,Pen,Office Supplies,South,80,10,0.05,10,A004
+2022-05-31,Eli,Binder,Office Supplies,Central,130,4,0.1,20,A005
